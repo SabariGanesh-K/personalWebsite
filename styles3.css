@@ -1,0 +1,16 @@
+.button1{
+    font-size: 30px;
+    background: orangered;
+    position: absolute;
+    padding: 8px;
+    border-radius: 16px;
+    text-decoration: none;
+    margin: 0.5em;
+    
+  
+}  
+.button1:hover{
+    border-radius: 0em;
+    transition-property: border-radius;
+    transition-duration: 0.75s;
+}

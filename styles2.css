@@ -1,0 +1,60 @@
+
+.button1{
+    font-size: 30px;
+    background: gold;
+    position: absolute;
+    padding: 8px;
+    border-radius: 16px;
+    text-decoration: none;
+    margin: 0.5em;
+    
+  
+}  
+.button1:hover{
+    border-radius: 0em;
+    transition-property: border-radius;
+    transition-duration: 0.75s;
+} 
+
+
+#skillsVID {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    
+}
+
+.skillBox{
+    width:25em;
+    position: absolute;
+    background: rgba(9,9,196,0.3);
+    height: 23em;
+    
+    
+}
+
+.skillSet {
+    position: relative;
+    background: black;
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 2em;
+    font-family: 'Berkshire Swash', cursive;
+
+}
+
+/* .endPage{
+
+} */
+
+/* .logo{
+    object-fit: ;
+} */
+
+
